@@ -6,3 +6,5 @@ Problem 3: Apply Transform Over Each Element in Array <a href="https://leetcode.
 Problem 4: Counter ii <a href="https://leetcode.com/problems/counter-ii/?envType=study-plan-v2&envId=30-days-of-javascript">Leetcode</a><br>
 Problem 5: Array Reduce Transformation <a href="https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript">Leetcode</a><br>
 Problem 6: Filter Elements from Array <a href="https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript">Leetcode</a><br>
+Problem 9: Memorize <a href="https://leetcode.com/problems/memoize/description/?envType=study-plan-v2&envId=30-days-of-javascript">Leetcode</a><br>
+Problem 10: Sleep <a href="https://leetcode.com/problems/sleep/description/?envType=study-plan-v2&envId=30-days-of-javascript">Leetcode</a><br>
